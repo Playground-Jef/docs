@@ -50,6 +50,10 @@
                     {
                         "group": "API documentation",
                         "pages": ["api-reference/introduction"]
+                    },
+                    {
+                      "group": "Account",
+                      "openapi": "http://127.0.0.1:8000/api/openapi.json"
                     }
                   ]
             }
